@@ -1,0 +1,7 @@
+*.iml
+target
+.idea
+*vault.exe*
+dist
+datademo
+.scannerwork
